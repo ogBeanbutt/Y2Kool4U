@@ -1,0 +1,56 @@
+
+  body
+  {
+    background-color: #cca8e9;
+  }
+
+  hr
+  {
+    background-color: #cca8e9;
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: white;
+    /*height: 0px; not necessary to include, deleting the height gives a height of 0 px*/
+    width: 3%;
+  }
+
+  h1
+  {
+    color: white;
+    font-family: Verdana, Arial, sans-serif;
+  }
+
+  h3
+  {
+    color: white;
+    font-family: Verdana, Arial, sans-serif;
+  }
+  p
+  {
+    font-family: Verdana, Arial, sans-serif;
+  }
+
+  ul
+  {
+    font-family: Verdana, Arial, sans-serif;
+  }
+
+  ol
+  {
+    font-family: Verdana, Arial, sans-serif;
+  }
+
+  table
+  {
+    font-family: Verdana, Arial, sans-serif;
+  }
+
+  a
+  {
+    font-family: Verdana, Arial, sans-serif;
+  }
+
+  form
+  {
+    font-family: Verdana, Arial, sans-serif;
+  }
